@@ -6,7 +6,7 @@
 
 一个sprint开始时，团队召开sprint会议，确定这个sprint中要实现产品代办列表中的哪些特性。这被称为**sprint待办列表**（Sprint Backlog）。
 
-sprint进行中每天开一个短会，叫做**每日Scrum站会**（Daily Scrum）。
+sprint进行中每天开一个短会，叫做**每日Scrum站会**（Daily Scrum）。每日站会小组成员只会谈论三件事：昨天我做了什么、今天我打算做什么、我碰到了什么障碍。当碰到了障碍时，会在这一天的后面某个时间开会讨论这个问题，经过讨论可能会对Sprint代办列表进行增加或删除。
 
 sprint结束时，会在**sprint评审会议**（Sprint Review）上向产品负责人和利益相关者演示可用的软件。
 
